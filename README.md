@@ -41,6 +41,22 @@ The Power BI report contains four pages:
 
 ---
 
+## Dashboard Preview
+
+### Overview
+![Overview](screenshots/overview.png)
+
+### Revenue over time
+![Revenue over time](screenshots/revenue_over_time.png)
+
+### Revenue by country
+![Revenue by country](screenshots/revenue_by_country.png)
+
+### Product performance
+![Product performance](screenshots/product_performance.png)
+
+---
+
 ## Key Takeaways
 - Revenue varies significantly over time, suggesting seasonal demand
 - Sales are heavily concentrated in the UK market
